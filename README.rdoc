@@ -1,3 +1,10 @@
+EDITS
+
+change libfaac to libfdk_aac
+
+
+
+
 = CarrierWave Video Converter
 
 {<img src="https://secure.travis-ci.org/rheaton/carrierwave-video.png?branch=master" alt="Build Status" />}[http://travis-ci.org/rheaton/carrierwave-video]
